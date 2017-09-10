@@ -1,0 +1,21 @@
+table {
+    font-family: Arial;
+    border-collapse: collapse;
+    font-size: 14px;
+    width: 100%;
+}
+
+th {
+    border-bottom: 1px solid grey;
+    text-align: left;
+}
+
+th, td {
+    padding-left: 10px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+td {
+    color: grey;
+}

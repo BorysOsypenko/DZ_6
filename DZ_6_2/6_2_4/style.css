@@ -1,0 +1,38 @@
+table {
+    text-align: left;
+    border-collapse: collapse;
+    font-family: Arial;
+    width: 100%;
+}
+th, td {
+    padding: 10px 16px;
+    vertical-align: middle;
+}
+.color {
+    color: #f70036;
+}
+td {
+    border-top: 1px solid #ccc;
+}
+.quantity {
+    height: 33px;
+    width: 33px;
+    color: white;
+    font-size: 16px;
+    box-sizing: border-box;
+    background-color: #f70036;
+    font-weight: bold;
+    border: 1px solid #f70036;
+    margin-left: 5px;
+}
+.remove {
+    height: 33px;
+    width: 70px;
+    color: white;
+    box-sizing: border-box;
+    background-color: #dc4e45;    
+    font-weight: bold;    
+    font-size: 12px;
+    border: 1px solid #dc4e45;
+    margin-left: 5px;    
+}

@@ -1,0 +1,12 @@
+table{
+	border-collapse: collapse;
+}
+th, td{
+	border-width: 1px;
+	border-style: solid;
+	padding: 10px;
+	text-align: center;
+}
+.drink{
+	text-align: left;
+}
